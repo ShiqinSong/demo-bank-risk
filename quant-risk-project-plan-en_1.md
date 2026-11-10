@@ -1,6 +1,5 @@
 # Quant Risk Portfolio Project Plan: Demo Bank Enterprise Risk Framework
 
-2026-11-10
 
 ## Overview
 
